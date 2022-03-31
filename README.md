@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @itZkhuZ and my age is 13
+- 👀 I’m interested in programming. I have learnt many programming languages like Blazor, C#, HTML5, CSS3, Javascript, React Native, Flutter Front-End UI/UX.
+- 🌱 I’m currently learning Flutter and Firebase connectivity
+- 💞️ I’m collaborating with a company in making a mobile Order-Booking-System-App For them.
+- 📫 How to reach me 👇
+- Email: khuzaimaamir1234@gmail.com
+- Twitter: https://twitter.com/proTech59261892
