@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khuzaima Amir and my age is 13
+- 👋 Hi, I’m Khuzaima Amir and my age is 14
 - 👀 I have learnt The MERN Stack, both ReactJS and React Native. I’m interested in Frontend Development.
 - 🌱 I’m currently creating Clones of popular websites like Apple, Twitter and Netflix.
 - 💞️ I’m collaborating with a company in making a mobile Order-Booking-System-App For them.
