@@ -7,5 +7,3 @@
 ## How to reach me 👇
 - Email: khuzaimaamir1234@gmail.com
 - Linkedin: https://www.linkedin.com/in/khuzaima-amir-63a639236/
-- Twitter: https://twitter.com/ChillnCode529
-- Youtube: https://www.youtube.com/@chillncode529/
